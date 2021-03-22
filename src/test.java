@@ -13,6 +13,6 @@ public class test {
        /* String result=code.compressString1("abbccd");
         System.out.println(result);*/
 
-
+        System.out.println("111");
     }
 }
